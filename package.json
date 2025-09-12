@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emailjs/browser": "^4.4.1",
     "animate.css": "^4.1.1",
     "bootstrap": "^5.3.8",
     "react": "^19.1.1",
